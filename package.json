@@ -1,6 +1,7 @@
 
 {
-  "name": "api",                                   11   "version": "1.0.0",
+  "name": "api",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +9,7 @@
    },
   "keywords": [],
   "author": "",
-  "license": "ISC",                                 2   "dependencies": {
+  "license": "ISC",
   "dependencies": {
 
     "express": "^4.18.2"
