@@ -1,9 +1,8 @@
-
 {
   "name": "api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "build": "echo 'Build script not needed for this app.'"
@@ -15,22 +14,3 @@
     "express": "^4.18.2"
    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
